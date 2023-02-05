@@ -1,0 +1,5 @@
+cython
+streamlit==1.7.0
+protobuf==3.19.0
+click==8.0.4
+streamlit-authenticator==0.1.5
