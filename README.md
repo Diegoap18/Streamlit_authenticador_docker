@@ -22,5 +22,5 @@ docker run -it -p 8501:8501 appteste
 src="screempagelg.jpg"
 raw=true
 alt="Screem log page"
-style="margin-right: 10px;"
+style="width:300px;height:400px;"
 />
