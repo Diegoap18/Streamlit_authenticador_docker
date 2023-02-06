@@ -16,11 +16,16 @@ docker run -it -p 8501:8501 appteste
 
 # Applications Screens:<br >
 
-![Screenshot](screempagelg.jpg)
+Screem 1: Login Page <br >
+![Screenshot](screempagelg.jpg)<br >
 
-<img
-src="screempagelg.jpg"
-raw=true
-alt="Screem log page"
-style="width:300px;height:400px;"
-/>
+Screem 2: Main Page sample <br >
+![Screenshot](screempagelg_main_page.jpg)
+
+ <br >
+ 
+ ### For more Content about Streamlit please contact me or see my channel:
+- Youtube Channel: devwithdigas <br >
+- Site: www.devwithdigas.com.br <br >
+
+ 
