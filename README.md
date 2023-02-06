@@ -13,3 +13,12 @@ to run you can open a Terminal CMD and run the following commands:<br >
 # Commands:
 docker build -f Dockerfile -t appteste:latest .<br >
 docker run -it -p 8501:8501 appteste
+
+# Applications Screens:<br >
+
+<img
+src=“screempagelg.jpg”
+raw=true
+alt=“Screem log page”
+style=“margin-right: 10px;”
+/>
