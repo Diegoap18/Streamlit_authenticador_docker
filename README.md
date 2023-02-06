@@ -25,7 +25,7 @@ Screem 2: Main Page sample <br ><br >
  <br >
  
  ### For more Content about Streamlit please contact me or see my channel:
-- Youtube Channel: devwithdigas <br >
+- Youtube Channel: https://www.youtube.com/@devwithdigas <br >
 - Site: www.devwithdigas.com.br <br >
 
  
