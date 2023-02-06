@@ -16,9 +16,11 @@ docker run -it -p 8501:8501 appteste
 
 # Applications Screens:<br >
 
+![Screenshot](screempagelg.jpg)
+
 <img
-src=“screempagelg.jpg”
+src="screempagelg.jpg"
 raw=true
-alt=“Screem log page”
-style=“margin-right: 10px;”
+alt="Screem log page"
+style="margin-right: 10px;"
 />
